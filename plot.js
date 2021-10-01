@@ -6,7 +6,7 @@ void async function () {
     id: "chart1",
     class: "my-chart",
     width: window.innerWidth,
-    height: window.innerHeight,
+    height: window.innerHeight - 31,
     series: [
       {},
       {
